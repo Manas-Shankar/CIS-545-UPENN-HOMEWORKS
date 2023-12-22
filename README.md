@@ -1,0 +1,1 @@
+This repository contains homeworks completed as part of the coursework for CIS545 - Big Data Analytics, taken at Upenn for the Fall 2023 semester. Libraries and frameworks covered include Pandas, NumPy, Pandasql, Apache Spark and PyTorch.
